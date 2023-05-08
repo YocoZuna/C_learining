@@ -33,11 +33,11 @@ void MyLib_Concatenate_To_Strings(char *string1,char*string2,char* dest)
             *dest = *string1;
             string1++;dest++;
         }
-        char** second = &dest; //To repair
+
         while(*string2 != '\0')
         {
-            **second = *string2;
-            string1++;second++;
+            *dest = *string2;
+            string2++;dest++;
         }
 }
 void fun1(void)

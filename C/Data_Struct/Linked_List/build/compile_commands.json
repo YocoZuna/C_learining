@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/dawid_zadlo/Documents/GitHub/C_learining/C/Data_Struct/Linked_List/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/Linked_List.dir/main.c.o -c /home/dawid_zadlo/Documents/GitHub/C_learining/C/Data_Struct/Linked_List/main.c",
+  "file": "/home/dawid_zadlo/Documents/GitHub/C_learining/C/Data_Struct/Linked_List/main.c",
+  "output": "CMakeFiles/Linked_List.dir/main.c.o"
+},
+{
+  "directory": "/home/dawid_zadlo/Documents/GitHub/C_learining/C/Data_Struct/Linked_List/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/Linked_List.dir/LL.c.o -c /home/dawid_zadlo/Documents/GitHub/C_learining/C/Data_Struct/Linked_List/LL.c",
+  "file": "/home/dawid_zadlo/Documents/GitHub/C_learining/C/Data_Struct/Linked_List/LL.c",
+  "output": "CMakeFiles/Linked_List.dir/LL.c.o"
+}
+]

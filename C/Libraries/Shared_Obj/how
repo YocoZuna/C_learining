@@ -1,0 +1,5 @@
+FIrst we have to compile gcc -c filename.c -o libname.o
+then we have use ar rcs libname.a libname.o
+WHen we create dest file we also have to link dest file to lib
+gcc -I "pathtolib" -c dest file.c dest file.o
+then we have to compile dest file gcc -o Exename dest.o "pathtolib and name.a"
